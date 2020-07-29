@@ -9,4 +9,6 @@
 
 
 
-## Clique neste link para jogar [linkgame] (https://editor.p5js.org/adrianysouzaa/present/HAB5y7FK1)
+## Clique no link abaixo para jogar :)
+
+[game] (https://editor.p5js.org/adrianysouzaa/present/HAB5y7FK1)
