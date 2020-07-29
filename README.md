@@ -1,4 +1,4 @@
-# : Game-Bruxinha-Willow :
+# Game-Bruxinha-Willow 
 
 
 ## Jogo criado com Javascript
