@@ -9,6 +9,6 @@
 
 
 
-## Clique no link abaixo para jogar :)
+## Quer jogar um pouco??? :)
 
-[game] (https://editor.p5js.org/adrianysouzaa/present/HAB5y7FK1)
+[Clique neste link para se aventurar com a Willow](https://editor.p5js.org/adrianysouzaa/present/HAB5y7FK1)
