@@ -5,7 +5,7 @@
 
 ### Jogue em seu computador e divirta-se!
 
-![tela inicial]( https://github.com/adrianysouzaa/Game-Bruxinha-Willow/blob/master/telaInicial.png)
+![tela inicial](https://github.com/adrianysouzaa/Game-Bruxinha-Willow/blob/master/telaInicial.png)
 
 
 
