@@ -4,7 +4,7 @@
 ## Jogo criado com Javascript
 
 
-![tela inicial]()
+![tela inicial](https://github.com/adrianysouzaa/Game-Bruxinha-Willow/blob/master/telaInicial.png)
 
 
 
