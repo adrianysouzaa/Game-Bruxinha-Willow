@@ -1,4 +1,4 @@
-# Game-Bruxinha-Willow 
+# Game-Bruxinha-Willow  :video_game: 
 
 
 ## Jogo criado com Javascript
@@ -24,3 +24,5 @@
 * [JavaScript]
 * Biblioteca [p5.js]
 * [Visual Studio Code]
+
+
