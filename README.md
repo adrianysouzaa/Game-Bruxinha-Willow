@@ -14,7 +14,7 @@
 [Clique neste link para se aventurar com a Willow](https://editor.p5js.org/adrianysouzaa/present/HAB5y7FK1)
 
 
-##Inicia com 5 vidas 
+## Inicia-se o jogo com 5 vidas 
 
 ![teladogame](https://github.com/adrianysouzaa/Game-Bruxinha-Willow/blob/master/jogo.png)
 
