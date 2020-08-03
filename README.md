@@ -4,6 +4,12 @@
 ## Jogo criado com Javascript
 
 
+<p align="center">
+  <img width="600" height="200" src="https://github.com/adrianysouzaa/Game-Bruxinha-Willow/blob/master/bruxinha%20willow.gif">
+</p>
+
+
+
 ![tela inicial](https://github.com/adrianysouzaa/Game-Bruxinha-Willow/blob/master/telaInicial-game.png)
 
 
