@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/adrianysouzaa/Game-Bruxinha-Willow/blob/master/bruxinha%20willow.gif">
+  <img width="600" height="500" src="https://github.com/adrianysouzaa/Game-Bruxinha-Willow/blob/master/bruxinha%20willow.gif">
 </p>
 
 
