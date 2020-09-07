@@ -1,7 +1,7 @@
 # Game-Bruxinha-Willow  :video_game: 
 
 
-## Jogo criado com Javascript
+## Jogo criado em Javascript 
 
 
 <p align="center">
